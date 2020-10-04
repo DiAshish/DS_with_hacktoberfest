@@ -29,3 +29,8 @@
 - Place: Delhi
 - Bio: Computer science student
 - Github: [InnovativeCoder](https://github.com/InnovativeCoder)
+
+### Name: [ashish](https://github.com/DiAshishr)
+- Place: Moradabad
+- Bio: Computer science student
+- Github: [DiAshish](https://github.com/DiAshish)
